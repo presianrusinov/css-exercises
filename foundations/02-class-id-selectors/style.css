@@ -1,0 +1,21 @@
+.odd {
+    background-color: #ff1493;
+    font-family: Verdana, 'Deja Vu sans', sans-serif;
+}
+
+.p3 {
+font-size: 24px;
+
+}
+
+#el2 {
+    color:rgb(16, 16, 171);
+    font-size: 36px;
+   
+}
+
+#el4{
+    background-color: hsl(120, 48%, 58%);
+    font-size: 24px;
+    font-weight: bold;
+}
